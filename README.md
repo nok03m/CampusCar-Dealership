@@ -1,3 +1,5 @@
 # Examen: CampusCar-Dealership
-# Modelo logico
+# Modelo entidad relacion
 ![MER](/MER.svg)
+# Modelo logico
+![Modelo logico](/ModeloLogico.svg)
